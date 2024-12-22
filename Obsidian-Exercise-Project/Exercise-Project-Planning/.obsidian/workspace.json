@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "873fabfa83186d5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "693369cfee44eb4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23629f175b0c1fba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Page Layout/0 Page Plans.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0 Page Plans"
+            }
+          },
+          {
+            "id": "3a517a4852a69584",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Page Layout/7 Individual Workout Page.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "7 Individual Workout Page"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "997cdfff63d0a3b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b61a7817b3a48511",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11201ca140f1b9cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6396f8050dabbb41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "22e7d11703b1c9e9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "56c0648b82d1eecf",
+    "type": "split",
+    "children": [
+      {
+        "id": "f957928b03535abe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5adee289e5151677",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "f056d48224df805d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "c9348fd8615a6303",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b7892389148aa5ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "3a517a4852a69584",
+  "lastOpenFiles": [
+    "Page Layout/0 Page Plans.md",
+    "Page Layout/1 Login Page.md",
+    "Page Layout/7 Individual Workout Page.md",
+    "Page Layout/6 Exercise List Page.md",
+    "Page Layout/5 Archive Page.md",
+    "Page Layout/4 Session Tracker Page.md",
+    "Page Layout/3 Program Page.md",
+    "Page Layout/2 Home Page.md",
+    "Databases/Database Model.md",
+    "Databases/D2 Individual Workout/D2 template.md",
+    "Databases/D2 Individual Workout/Database 2.md",
+    "Databases/D2 Individual Workout/D2 Dependency.md",
+    "Databases/D2 Individual Workout/D2 Individual Workout README.md",
+    "Welcome.md",
+    "Databases/D1 Exercise List/D1.1 Exercise List/D1.1 Columns.md",
+    "Page Layout",
+    "Functionality",
+    "Databases/D1 Exercise List/D1.2 Focus List/D1.2 Template.md",
+    "Databases/D1 Exercise List/D1.2 Focus List/D1.2 Focus List README.md",
+    "Databases/D1 Exercise List/D1.2 Focus List/D1.2 Columns.md",
+    "Databases/D1 Exercise List/D1.1 Exercise List/D1.1 Template.md",
+    "Databases/D1 Exercise List/D1.1 Exercise List/D1.1 Exercise Column README.md",
+    "Databases/D3 Program/D3 Template.md",
+    "Databases/D3 Program/D3 Program README.md",
+    "Databases/D3 Program/D3 Columns.md",
+    "Databases/D2 Individual Workout/D2 Columns.md",
+    "Databases/D1 Exercise List/D1.2 Focus List",
+    "Databases/D1 Exercise List/D1.1 Exercise List",
+    "Databases/D3 Program",
+    "Databases/D2 Individual Workout",
+    "Databases/D1 Exercise List",
+    "Databases",
+    "Exercise_Website",
+    "Projects"
+  ]
+}
