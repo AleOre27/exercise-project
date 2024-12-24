@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Page Layout/0 Page Plans.md",
+                "file": "Databases/D1 Exercise List/D1.1 Exercise List/D1.1 Exercise Column README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0 Page Plans"
+              "title": "D1.1 Exercise Column README"
+            }
+          },
+          {
+            "id": "c6b6e48cf52b7694",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Databases/D1 Exercise List/D1.1 Exercise List/D1.1 Columns.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "D1.1 Columns"
             }
           },
           {
@@ -33,7 +45,8 @@
               "title": "7 Individual Workout Page"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,41 +193,42 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3a517a4852a69584",
+  "active": "c6b6e48cf52b7694",
   "lastOpenFiles": [
+    "Databases/D1 Exercise List/D1.1 Exercise List/D1.1 Exercise Column README.md",
+    "Databases/D1 Exercise List/D1.1 Exercise List/D1.1 Columns.md",
+    "Databases/D1 Exercise List/D1.1 Exercise List/D1.1 Columns.excalidraw",
     "Page Layout/0 Page Plans.md",
     "Page Layout/1 Login Page.md",
+    "Databases/D3 Program/D3 Template.md",
     "Page Layout/7 Individual Workout Page.md",
-    "Page Layout/6 Exercise List Page.md",
     "Page Layout/5 Archive Page.md",
-    "Page Layout/4 Session Tracker Page.md",
-    "Page Layout/3 Program Page.md",
     "Page Layout/2 Home Page.md",
     "Databases/Database Model.md",
+    "Databases/D2 Individual Workout/D2 Individual Workout README.md",
+    "Databases/D1 Exercise List/D1.1 Exercise List/D1.1 Template.md",
+    "test.excalidraw",
+    "test.md",
+    "Excalidraw/Drawing 2024-12-22 15.16.38.excalidraw.md",
+    "Excalidraw",
+    "Page Layout/6 Exercise List Page.md",
+    "Page Layout/4 Session Tracker Page.md",
+    "Page Layout/3 Program Page.md",
     "Databases/D2 Individual Workout/D2 template.md",
     "Databases/D2 Individual Workout/Database 2.md",
     "Databases/D2 Individual Workout/D2 Dependency.md",
-    "Databases/D2 Individual Workout/D2 Individual Workout README.md",
     "Welcome.md",
-    "Databases/D1 Exercise List/D1.1 Exercise List/D1.1 Columns.md",
     "Page Layout",
     "Functionality",
     "Databases/D1 Exercise List/D1.2 Focus List/D1.2 Template.md",
     "Databases/D1 Exercise List/D1.2 Focus List/D1.2 Focus List README.md",
     "Databases/D1 Exercise List/D1.2 Focus List/D1.2 Columns.md",
-    "Databases/D1 Exercise List/D1.1 Exercise List/D1.1 Template.md",
-    "Databases/D1 Exercise List/D1.1 Exercise List/D1.1 Exercise Column README.md",
-    "Databases/D3 Program/D3 Template.md",
     "Databases/D3 Program/D3 Program README.md",
     "Databases/D3 Program/D3 Columns.md",
-    "Databases/D2 Individual Workout/D2 Columns.md",
     "Databases/D1 Exercise List/D1.2 Focus List",
     "Databases/D1 Exercise List/D1.1 Exercise List",
     "Databases/D3 Program",
     "Databases/D2 Individual Workout",
-    "Databases/D1 Exercise List",
-    "Databases",
-    "Exercise_Website",
-    "Projects"
+    "Databases/D1 Exercise List"
   ]
 }
